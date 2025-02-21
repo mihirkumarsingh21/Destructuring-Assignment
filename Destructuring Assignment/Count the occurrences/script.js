@@ -13,5 +13,5 @@ function countWords(str) {
     return map;
   }
   
-  const sentence = "I am Madhvi Saxena. I am learning web development from PW Skills.";
+  const sentence = "I am mihir. I am learning web development from PW Skills.";
   console.log(countWords(sentence));
